@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Budimas Helper Driver</string>
+    <string name="title_activity_main">Budimas Helper Driver</string>
+    <string name="package_name">id.co.budimas.helperdriver</string>
+    <string name="custom_url_scheme">id.co.budimas.helperdriver</string>
+</resources>
